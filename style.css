@@ -33,3 +33,9 @@ h1{
     justify-items: flex-start;
     text-shadow: none;
 }
+
+p{
+    text-align: center;
+    font-weight: 600;
+    margin: 23px;
+}
