@@ -74,3 +74,7 @@ a{
     gap: 20px;
     box-shadow: 0 5px 20px rgb(168,80,50);
 }
+
+div{
+    text-align: center;
+}
